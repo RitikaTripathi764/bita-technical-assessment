@@ -628,4 +628,3 @@ Depending on the production environment, I would consider adding:
 - security and rate limiting
 
 I left these out because I wanted the assessment solution to stay focused on the requested ingestion, history, deletion and export behavior.
-```
